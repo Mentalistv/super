@@ -1,1 +1,1 @@
-this is a test file to test merge. 
+this is a test file to test merge and conflicts. 
